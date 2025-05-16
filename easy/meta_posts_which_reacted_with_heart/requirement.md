@@ -1,6 +1,7 @@
 𝐌𝐮𝐬𝐭 𝐓𝐫𝐲: Meta/Facebook (Easy Level) hashtag#SQL Interview Question — Solution
 
-Find all posts which were reacted to with a heart. For such posts output all columns from facebook_posts table.
+Find all posts which were reacted to with a heart. 
+For such posts output all columns from facebook_posts table.
 
 🔍 Easy one give a try, you'll learn how to use join. Give it a try and share the output! 👇
 

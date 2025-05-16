@@ -1,15 +1,18 @@
 𝐌𝐮𝐬𝐭 𝐓𝐫𝐲: Accenture(Medium Level) hashtag#SQL Interview Question — Solution
 
-Following a recent advertising campaign, the marketing department wishes to classify its efforts based on the total number of units sold for each product.
+Following a recent advertising campaign, the marketing department wishes to classify its 
+efforts based on the total number of units sold for each product.
 
-You have been tasked with calculating the total number of units sold for each product and categorizing ad performance based on the following criteria for items sold:
+You have been tasked with calculating the total number of units sold for each product 
+and categorizing ad performance based on the following criteria for items sold:
 
 Outstanding: 30+
 Satisfactory: 20 - 29
 Unsatisfactory: 10 - 19
 Poor: 1 - 9
 
-Your output should contain the product ID, total units sold in descending order, and its categorized ad performance.
+Your output should contain the product ID, total units sold in descending order, 
+and its categorized ad performance.
 
 🔍By solving this, you'll learn how to use when, case and group by. Give it a try and share the output! 👇
 
