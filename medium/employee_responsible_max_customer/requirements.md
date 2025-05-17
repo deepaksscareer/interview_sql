@@ -1,9 +1,11 @@
 
 𝐌𝐮𝐬𝐭 𝐓𝐫𝐲: Amazon (Medium Level) #SQL Interview Question — Solution
 
-Each Employee is assigned one territory and is responsible for the Customers from this territory. There may be multiple employees assigned to the same territory.
+Each Employee is assigned one territory and is responsible for the Customers from this territory. 
+There may be multiple employees assigned to the same territory.
 
-Write a query to get the Employees who are responsible for the maximum number of Customers. Output the Employee ID and the number of Customers.
+Write a query to get the Employees who are responsible for the maximum number of Customers. 
+Output the Employee ID and the number of Customers.
 
 🌀By solving this, you'll learn how to use Cte, Group by, Join, Agg function. Give it a try and share the output! 👇
 
