@@ -1,4 +1,7 @@
-Calculate the average net earnings per order grouped by weekday (in text format, e.g., Monday) and hour from customer_placed_order_datetime. The net earnings are computed as: order_total + tip_amount - discount_amount - refunded_amount. Round the result to 2 decimals.
+Calculate the average net earnings per order grouped by weekday
+(in text format, e.g., Monday) and hour from  q. 
+The net earnings are computed as: order_total + tip_amount - discount_amount - refunded_amount. 
+Round the result to 2 decimals.
 
 🔍By solving this, you'll learn how to use group by and agg function. Give it a try and share the output! 👇
 
