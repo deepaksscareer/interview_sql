@@ -1,6 +1,7 @@
 𝐌𝐮𝐬𝐭 𝐓𝐫𝐲: Amazon (Hard Level) hashtag#SQL Interview Question — Solution
 
-You have been asked to find the fifth highest salary without using TOP or LIMIT. Note: Duplicate salaries should not be removed.
+You have been asked to find the fifth highest salary without using TOP or LIMIT. 
+Note: Duplicate salaries should not be removed.
 
 🔍By solving this, you'll learn how to use CTE and Windows function. Give it a try and share the output! 👇
 
